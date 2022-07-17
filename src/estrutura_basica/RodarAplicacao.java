@@ -1,4 +1,4 @@
-package estrutura.basica;
+package estrutura_basica;
 
 class RodarAplicacao {
     public static void main(String[] args) {

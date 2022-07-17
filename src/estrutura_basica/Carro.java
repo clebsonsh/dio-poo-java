@@ -1,4 +1,4 @@
-package estrutura.basica;
+package estrutura_basica;
 
 public class Carro {
     String cor;
